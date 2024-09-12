@@ -851,7 +851,7 @@ body {
 }
 .work--lockup .slider--item-description {
 	display: none;
-	max-width: 250px;
+	/* max-width: 250px; */
 	margin: 0 auto;
 }
 .work--lockup .slider--item-image {
